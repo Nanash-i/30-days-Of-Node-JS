@@ -1,0 +1,14 @@
+{
+  "name": "@praveen_007/my_first_calc",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen Das",
+  "license": "ISC",
+  "dependencies": {
+    "@praveen_007/my_first_calc": "^1.0.0"
+  }
+}
